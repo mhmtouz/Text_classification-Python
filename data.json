@@ -1,0 +1,8 @@
+{
+	"Zaman": ["saat kaç?", "başladığımızdan beri ne kadar zaman geçti?", "çok uzun zaman önceydi", "Geçen hafta seninle konuştum", " Dün seni gördüm"],
+	"Üzgünüm": ["Çok üzgünüm", "senden özür diledi mi?", "Kaba olmamalıydım"],
+	"Selamlama": ["Merhabalar!", "Hey dostum , nasılsın?", "merhaba"],
+	"Veda": ["Sizinle tanışmak bir zevkti", "Güle güle", "yakında görüşürüz", "şimdi gitmem gerekiyor."],
+	"Duygu": ["Heyecanlanmak", "heyecanlandım", "heyecan"],
+	"yaş": ["yaşınız kaç?", "Kaç yaşındasınız?", "Ben ondan birkaç yaş daha yaşlıyım", "Yaşlanmış görünüyorsunuz!"]
+}
